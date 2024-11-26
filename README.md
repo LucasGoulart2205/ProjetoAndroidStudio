@@ -4,7 +4,7 @@
 - 💡 A ideia é usar as linguagens e ferramentas para criar um aplicativo em que tenha uma pagina de login (usando FireBase como banco) e que logo em seguida carrega uma pagina utilizando alguma API.
 - ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge)
 
-  # 📱 Instalando o Android Studio e configurando o emulador
+# 📱 Instalando o Android Studio e configurando o emulador
 
 - `Passo 1`: Baixe e instale o Android Studio através do link oficial: https://developer.android.com/studio.
 - `Passo 2`: Durante a instalação, certifique-se de incluir o Android Virtual Device (AVD) e o SDK Manager.
@@ -13,7 +13,7 @@
 - `Passo 5`: Selecione uma versão do sistema operacional Android e clique em Download para obter a imagem do sistema.
 - `Passo 6`: Configure o restante conforme necessário e finalize.
 - `Passo 7`: Inicie o emulador clicando no ícone de play ao lado do dispositivo criado.
-  #
+  
 # 🔥 Configurando o FireBase
 
 - `Passo 1`: 1° Instalação da Cli do Firebase com o comando "npm install -g firebase-tools", podendo baixar manualamente pelo link "https://firebase.google.com/docs/cli?hl=pt-br#sign-in-test-cli" e escolhendo seu sistema operacional
