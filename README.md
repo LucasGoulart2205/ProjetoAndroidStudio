@@ -13,7 +13,7 @@
 - `Passo 5`: Selecione uma versão do sistema operacional Android e clique em Download para obter a imagem do sistema.
 - `Passo 6`: Configure o restante conforme necessário e finalize.
 - `Passo 7`: Inicie o emulador clicando no ícone de play ao lado do dispositivo criado.
-- 
+  #
 # 🔥 Configurando o FireBase
 
 - `Passo 1`: 1° Instalação da Cli do Firebase com o comando "npm install -g firebase-tools", podendo baixar manualamente pelo link "https://firebase.google.com/docs/cli?hl=pt-br#sign-in-test-cli" e escolhendo seu sistema operacional
