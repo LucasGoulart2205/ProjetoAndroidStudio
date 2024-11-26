@@ -6,9 +6,19 @@
 
 # 🔥 Configurando o FireBase
 
-- `Passo 1`: 1° Instalação da Cli do Firebase com o comando "npm install -g firebase-tools", podendo baixar manualamente pelo link "https://firebase.google.com/docs/cli?hl=pt-br#sign-in-test-cli" e escolhendo seu sistema operacional.
+- `Passo 1`: 1° Instalação da Cli do Firebase com o comando "npm install -g firebase-tools", podendo baixar manualamente pelo link "https://firebase.google.com/docs/cli?hl=pt-br#sign-in-test-cli" e escolhendo seu sistema operacional
 - `Passo 2`: No seu prompt de comando "cmd" use o comando "firebase login"
 - `Passo 3`: Comando "dart pub global activate flutterfire_cli"
+- `Passo 4`: Dentro do diretorio do projeto de esse comando "flutterfire configure"
+- `Passo 5`: Depois digite esse "flutter pub add firebase_core"
+- `Passo 6`: Digite "flutter pub add firebase_auth"
+- 
+- # 🪟![CatBedGIF](https://github.com/user-attachments/assets/828dc6fa-7d62-4a6c-8a41-dc3489c85560)
+ Configurando o Flutter e Dart (WINDOWS)
+
+- `Passo 1`: Baixe o Flutter SDK em flutter.dev
+- `Passo 2`: Extraia o arquivo .zip em uma pasta de fácil acesso (exemplo: C:\src\flutter).
+- `Passo 3`: Adicione o Flutter ao PATH (Vá em Painel de Controle > Sistema > Configurações Avançadas > Variáveis de Ambiente e edite a variável Path em "Variáveis do sistema" e adicione o caminho completo da pasta Flutter, por exemplo: C:\src\flutter\bin).
 - `Passo 4`: Dentro do diretorio do projeto de esse comando "flutterfire configure"
 - `Passo 5`: Depois digite esse "flutter pub add firebase_core"
 - `Passo 6`: Digite "flutter pub add firebase_auth"
