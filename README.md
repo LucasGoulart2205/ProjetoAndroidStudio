@@ -12,15 +12,14 @@
 - `Passo 4`: Dentro do diretorio do projeto de esse comando "flutterfire configure"
 - `Passo 5`: Depois digite esse "flutter pub add firebase_core"
 - `Passo 6`: Digite "flutter pub add firebase_auth"
-- 
+  ##
 - # 🪟 Configurando o Flutter e Dart (WINDOWS)
 
 - `Passo 1`: Baixe o Flutter SDK em flutter.dev
 - `Passo 2`: Extraia o arquivo .zip em uma pasta de fácil acesso (exemplo: C:\src\flutter).
 - `Passo 3`: Adicione o Flutter ao PATH (Vá em Painel de Controle > Sistema > Configurações Avançadas > Variáveis de Ambiente e edite a variável Path em "Variáveis do sistema" e adicione o caminho completo da pasta Flutter, por exemplo: C:\src\flutter\bin).
-- `Passo 4`: Dentro do diretorio do projeto de esse comando "flutterfire configure"
-- `Passo 5`: Depois digite esse "flutter pub add firebase_core"
-- `Passo 6`: Digite "flutter pub add firebase_auth"
+
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
