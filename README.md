@@ -1,4 +1,4 @@
-### Projeto feito por Lucas Goulart e Lucas Godinho para prova final da Universidade Ulbra!
+### Projeto feito por Lucas Goulart e Lucas Godinho para a cadeira de Desenvolvimento de Sistemas Moveis da Universidade Ulbra!
 
 - 💡 A ideia é usar as linguagens para criar um aplicativo em que tenha uma pagina de login (usando FireBase como banco) e que logo em seguida carrega uma pagina utilizando alguma API.
 - 💻 Flutter, Dart, API'S e FireBase
