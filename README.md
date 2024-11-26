@@ -4,6 +4,7 @@
 - 💡 A ideia é usar as linguagens e ferramentas para criar um aplicativo em que tenha uma pagina de login (usando FireBase como banco) e que logo em seguida carrega uma pagina utilizando alguma API.
 - ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge)
 
+  
 # 🔥 Configurando o FireBase
 
 - `Passo 1`: 1° Instalação da Cli do Firebase com o comando "npm install -g firebase-tools", podendo baixar manualamente pelo link "https://firebase.google.com/docs/cli?hl=pt-br#sign-in-test-cli" e escolhendo seu sistema operacional
@@ -12,6 +13,7 @@
 - `Passo 4`: Dentro do diretorio do projeto de esse comando "flutterfire configure"
 - `Passo 5`: Depois digite esse "flutter pub add firebase_core"
 - `Passo 6`: Digite "flutter pub add firebase_auth"
+
 
 - # 🪟 Configurando o Flutter e Dart (WINDOWS)
 
