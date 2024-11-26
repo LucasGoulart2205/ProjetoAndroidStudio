@@ -1,10 +1,10 @@
-### Projeto feito por Lucas Goulart e Lucas Godinho para a cadeira de Desenvolvimento de Sistemas Moveis da Universidade Ulbra!
+# Projeto feito por Lucas Goulart e Lucas Godinho para a cadeira de Desenvolvimento de Sistemas Moveis da Universidade Ulbra!
 
 - 💻 Flutter, Dart, API'S e FireBase
 - 💡 A ideia é usar as linguagens e ferramentas para criar um aplicativo em que tenha uma pagina de login (usando FireBase como banco) e que logo em seguida carrega uma pagina utilizando alguma API.
 - ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge)
 
-# 🔥: Configurando o FireBase
+# 🔥 Configurando o FireBase
 
 - `Passo 1`: 1° Instalação da Cli do Firebase com o comando "npm install -g firebase-tools", podendo baixar manualamente pelo link "https://firebase.google.com/docs/cli?hl=pt-br#sign-in-test-cli" e escolhendo seu sistema operacional.
 - `Passo 2`: No seu prompt de comando "cmd" use o comando "firebase login"
