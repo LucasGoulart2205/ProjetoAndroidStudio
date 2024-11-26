@@ -1,7 +1,7 @@
-### Olá! Eu sou o Lucas Goulart
+### Projeto feito por Lucas Goulart e Lucas Godinho para prova final da Universidade Ulbra!
 
-- 💻 Acadêmico em Analise e Desenvolvimento de Sistemas na Universidade ULBRA.
-- 🏠 Tramandai, RS.
+- 💡 A ideia é usar as linguagens para criar um aplicativo em que tenha uma pagina de login (usando FireBase como banco) e que logo em seguida carrega uma pagina utilizando alguma API.
+- 💻 Flutter, Dart, API'S e FireBase
 
   ##
 <div>
