@@ -3,13 +3,27 @@
 - 💻 Flutter, Dart, API'S e FireBase
 - 💡 A ideia é usar as linguagens e ferramentas para criar um aplicativo em que tenha uma pagina de login (usando FireBase como banco) e que logo em seguida carrega uma pagina utilizando alguma API.
 - ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge)
+- 
+- 1° Instalação da Cli do Firebase com o comando "npm install -g firebase-tools", podendo baixar manualamente pelo link "https://firebase.google.com/docs/cli?hl=pt-br#sign-in-test-cli" e escolhendo seu sistema operacional.
 
-# :🔥: Funcionalidades do projeto
+2° No seu prompt de comando "cmd" use o comando "firebase login"
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+3° No seu prompt de comando "cmd" use o comando "firebase login"
+
+4° Dentro do diretorio do projeto de esse comando "flutterfire configure"
+
+5° Depois digite esse "flutter pub add firebase_core"
+
+6° Digite "flutter pub add firebase_auth"
+
+# 🔥: Configurando o FireBase
+
+- `Passo 1`: 1° Instalação da Cli do Firebase com o comando "npm install -g firebase-tools", podendo baixar manualamente pelo link "https://firebase.google.com/docs/cli?hl=pt-br#sign-in-test-cli" e escolhendo seu sistema operacional.
+- `Passo 2`: No seu prompt de comando "cmd" use o comando "firebase login"
+- `Passo 3`: No seu prompt de comando "cmd" use o comando "firebase login"
+- `Passo 4`: Dentro do diretorio do projeto de esse comando "flutterfire configure"
+- `Passo 5`: Depois digite esse "flutter pub add firebase_core"
+- `Passo 6`: Digite "flutter pub add firebase_auth"
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
