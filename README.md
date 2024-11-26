@@ -12,7 +12,7 @@
 - `Passo 4`: Dentro do diretorio do projeto de esse comando "flutterfire configure"
 - `Passo 5`: Depois digite esse "flutter pub add firebase_core"
 - `Passo 6`: Digite "flutter pub add firebase_auth"
-  ##
+
 - # 🪟 Configurando o Flutter e Dart (WINDOWS)
 
 - `Passo 1`: Baixe o Flutter SDK em flutter.dev
