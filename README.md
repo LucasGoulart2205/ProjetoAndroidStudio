@@ -13,8 +13,7 @@
 - `Passo 5`: Depois digite esse "flutter pub add firebase_core"
 - `Passo 6`: Digite "flutter pub add firebase_auth"
 - 
-- # 🪟![CatBedGIF](https://github.com/user-attachments/assets/828dc6fa-7d62-4a6c-8a41-dc3489c85560)
- Configurando o Flutter e Dart (WINDOWS)
+- # 🪟 Configurando o Flutter e Dart (WINDOWS)
 
 - `Passo 1`: Baixe o Flutter SDK em flutter.dev
 - `Passo 2`: Extraia o arquivo .zip em uma pasta de fácil acesso (exemplo: C:\src\flutter).
