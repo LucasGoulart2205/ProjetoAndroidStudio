@@ -1,6 +1,6 @@
 # ✍🏻 Projeto feito por Lucas Goulart e Lucas Godinho para a cadeira de Desenvolvimento de Sistemas Moveis da Universidade Ulbra!
 
-- 💻 Flutter, Dart, API'S e FireBase
+- 💻 Flutter, Dart, API'S e FireBase.
 - 💡 A ideia é usar as linguagens e ferramentas para criar um aplicativo em que tenha uma pagina de login (usando FireBase como banco) e que logo em seguida carrega uma pagina utilizando alguma API.
 - ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge)
 
@@ -16,16 +16,16 @@
   
 # 🔥 Configurando o FireBase
 
-- `Passo 1`: 1° Instalação da Cli do Firebase com o comando "npm install -g firebase-tools", podendo baixar manualamente pelo link "https://firebase.google.com/docs/cli?hl=pt-br#sign-in-test-cli" e escolhendo seu sistema operacional
-- `Passo 2`: No seu prompt de comando "cmd" use o comando "firebase login"
-- `Passo 3`: Comando "dart pub global activate flutterfire_cli"
-- `Passo 4`: Dentro do diretorio do projeto de esse comando "flutterfire configure"
-- `Passo 5`: Depois digite esse "flutter pub add firebase_core"
-- `Passo 6`: Digite "flutter pub add firebase_auth"
+- `Passo 1`: 1° Instalação da Cli do Firebase com o comando "npm install -g firebase-tools", podendo baixar manualamente pelo link "https://firebase.google.com/docs/cli?hl=pt-br#sign-in-test-cli" e escolhendo seu sistema operacional.
+- `Passo 2`: No seu prompt de comando "cmd" use o comando "firebase login".
+- `Passo 3`: Comando "dart pub global activate flutterfire_cli".
+- `Passo 4`: Dentro do diretorio do projeto de esse comando "flutterfire configure".
+- `Passo 5`: Depois digite esse "flutter pub add firebase_core".
+- `Passo 6`: Digite "flutter pub add firebase_auth".
 
 # 🪟 Configurando o Flutter e Dart (WINDOWS)
 
-- `Passo 1`: Baixe o Flutter SDK em flutter.dev
+- `Passo 1`: Baixe o Flutter SDK em flutter.dev.
 - `Passo 2`: Extraia o arquivo .zip em uma pasta de fácil acesso (exemplo: C:\src\flutter).
 - `Passo 3`: Adicione o Flutter ao PATH (Vá em Painel de Controle > Sistema > Configurações Avançadas > Variáveis de Ambiente e edite a variável Path em "Variáveis do sistema" e adicione o caminho completo da pasta Flutter, por exemplo: C:\src\flutter\bin).
 
