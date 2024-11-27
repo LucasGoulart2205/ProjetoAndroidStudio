@@ -1,7 +1,7 @@
 # ✍🏻 Projeto feito por Lucas Goulart e Lucas Godinho para a cadeira de Desenvolvimento de Sistemas Moveis da Universidade Ulbra!
 
 - 💻 Flutter, Dart, API'S e FireBase.
-- 💡 A ideia é usar as linguagens e ferramentas para criar um aplicativo em que tenha uma pagina de login (usando FireBase como banco) e que logo em seguida carrega uma pagina utilizando alguma API.
+- 💡 A ideia é usar as linguagens e ferramentas para criar um aplicativo em que tenha uma pagina de login (usando FireBase como ferramento para o banco) e que logo em seguida carrega uma pagina utilizando alguma API mostrando os personagens, alem tambem com um botão com a função de retornar a tela.
 - ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge)
 
 # 📱 Instalando o Android Studio e configurando o emulador
