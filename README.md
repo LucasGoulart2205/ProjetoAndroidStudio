@@ -29,7 +29,25 @@
 - `Passo 2`: Extraia o arquivo .zip em uma pasta de fácil acesso (exemplo: C:\src\flutter).
 - `Passo 3`: Adicione o Flutter ao PATH (Vá em Painel de Controle > Sistema > Configurações Avançadas > Variáveis de Ambiente e edite a variável Path em "Variáveis do sistema" e adicione o caminho completo da pasta Flutter, por exemplo: C:\src\flutter\bin).
 
+# 💭 Sobre o nosso projeto
+
+- `Qual API foi escolhida?`: Optamos por escolher a API de Dragon Ball (https://web.dragonball-api.com), além de conter muitos personagens para adicionarmos no aplicativo, ela tambem nos fornece mais caracteristicas detalhadas para podermos adionar ao app.
+- `Passo 2`: Extraia o arquivo .zip em uma pasta de fácil acesso (exemplo: C:\src\flutter).
+- `Passo 3`: Adicione o Flutter ao PATH (Vá em Painel de Controle > Sistema > Configurações Avançadas > Variáveis de Ambiente e edite a variável Path em "Variáveis do sistema" e adicione o caminho completo da pasta Flutter, por exemplo: C:\src\flutter\bin).
   
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
