@@ -31,23 +31,10 @@
 
 # 💭 Sobre o nosso projeto
 
-- `Qual API foi escolhida?`: Optamos por escolher a API de Dragon Ball (https://web.dragonball-api.com), além de conter muitos personagens para adicionarmos no aplicativo, ela tambem nos fornece mais caracteristicas detalhadas para podermos adionar ao app.
+- `Qual API foi escolhida?`: Optamos por escolher a API de Dragon Ball (https://web.dragonball-api.com), além de conter muitos personagens para adicionarmos no aplicativo, ela tambem nos fornece mais caracteristicas detalhadas para podermos adionar ao app.  <img align="right" alt="Lucas-gif" height="150" width="180" src="https://github.com/user-attachments/assets/657c0297-a08a-4069-89b3-e4aa192c95ea)
+pload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif">
 - `Por que escolhemos o FireBase?`: Porque oferece uma plataforma completa para autenticação, banco de dados, armazenamento e funções serverless, com fácil integração, escalabilidade automática e infraestrutura do Google, permitindo desenvolver aplicativos rapidamente sem gerenciar servidores.
 - `Quais linguagens escolhidas?`: Usamos o Flutter e Dart que são ideais para desenvolvimento multiplataforma, permitindo criar apps para Android, iOS, Web e desktop com um único código base.
-![GokuDragonBallZGIF (2)](https://github.com/user-attachments/assets/343a380b-6368-4c9d-9483-446fa2ce6d43)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div style="display: inline_block"><br>
