@@ -31,8 +31,7 @@
 
 # 💭 Sobre o nosso projeto
 
-- `Qual API foi escolhida?`: Optamos por escolher a API de Dragon Ball (https://web.dragonball-api.com), além de conter muitos personagens para adicionarmos no aplicativo, ela tambem nos fornece mais caracteristicas detalhadas para podermos adionar ao app.  <img align="right" alt="Lucas-gif" height="150" width="180" src="https://github.com/user-attachments/assets/657c0297-a08a-4069-89b3-e4aa192c95ea)
-pload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif">
+- `Qual API foi escolhida?`: Optamos por escolher a API de Dragon Ball (https://web.dragonball-api.com), além de conter muitos personagens para adicionarmos no aplicativo, ela tambem nos fornece mais caracteristicas detalhadas para podermos adionar ao app.
 - `Por que escolhemos o FireBase?`: Porque oferece uma plataforma completa para autenticação, banco de dados, armazenamento e funções serverless, com fácil integração, escalabilidade automática e infraestrutura do Google, permitindo desenvolver aplicativos rapidamente sem gerenciar servidores.
 - `Quais linguagens escolhidas?`: Usamos o Flutter e Dart que são ideais para desenvolvimento multiplataforma, permitindo criar apps para Android, iOS, Web e desktop com um único código base.
 
@@ -41,7 +40,7 @@ pload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif">
   <img align="center" alt="Lucas-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="Lucas-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
   <img align="center" alt="Lucas-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
-  <img align="right" alt="Lucas-gif" height="150" width="180" src="https://res.cloudinary.com/jerrick/image/upload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif">
+  <img align="right" alt="Lucas-gif" height="150" width="180" src="[https://res.cloudinary.com/jerrick/image/upload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif](https://i.pinimg.com/originals/86/9c/5b/869c5ba091b69122cb8a27e2bfeea909.gif)">
   
 </div>
 
